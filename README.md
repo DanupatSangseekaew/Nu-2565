@@ -3,3 +3,5 @@
 Computer Laboratory 2565 - Lab09
 
 My name is Danupat
+
+I like playing games.
