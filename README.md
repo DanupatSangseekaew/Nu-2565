@@ -1,8 +1,10 @@
-  #include < stdio.h >
+#include < stdio.h >
         main()
         {
-                printf ("hello, world\n");
+                printf ("hello, Danupat\n");
         }
+
+
 Name : Danupat
 Surname : Sangseekaew
 Nickname : Nu
