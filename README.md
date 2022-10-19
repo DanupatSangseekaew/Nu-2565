@@ -1,5 +1,8 @@
-# Nu-2565
-
+  #include < stdio.h >
+        main()
+        {
+                printf ("hello, world\n");
+        }
 Name : Danupat
 Surname : Sangseekaew
 Nickname : Nu
