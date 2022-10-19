@@ -2,9 +2,10 @@
         int main ()
         {
                 char yourname[100];
-                printf("What is your name?\t");
-                scanf("%s",danupat);
-                printf("hello, %s\n", danupat);
+printf("What is your name?\t");
+scanf("%s",danupat);
+printf("hello, %s\n", yourname);
+printf("Goodbye\n");
         }
 
 Name : Danupat
